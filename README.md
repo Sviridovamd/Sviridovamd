@@ -3,7 +3,7 @@
 
 - 🔭 I speak English, Russian
 - 🌱 I’m currently learning Android and Kotlin
-- 👯  I’m currently doing a C++ bootcamp (at school 42).
+- 👯  I’m currently doing a C++ bootcamp (at school 42(21)).
 - 💬 Ask me about MFC
 - 📫 How to reach me: sviridovamd@gmail.com
 - ⚡ Fun fact: I am an engineer and artist
